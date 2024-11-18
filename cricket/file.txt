@@ -1,0 +1,5 @@
+bats, helmets,
+ gloves, pads,
+ shoes, bat grips,
+ mallets, stickers,
+ stumps 
